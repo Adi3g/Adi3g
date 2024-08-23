@@ -33,5 +33,5 @@ Here are a few projects I've worked on that showcase my skills and contributions
 I am always open to collaborating on projects that aim to innovate and improve financial systems. If you're interested in partnering or have a project in mind, feel free to reach out!
 
 ## 📫 Contact Me
-- **Email**: [your.email@example.com](mailto:contact@adi3g.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/adib-grouz)
+- **Email**: [contact@adi3g.com](mailto:contact@adi3g.com)
+- **LinkedIn**: [Adib Grouz](https://www.linkedin.com/in/adib-grouz)
