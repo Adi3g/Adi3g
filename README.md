@@ -12,7 +12,8 @@ Hello! I'm @Adi3g, a dedicated and experienced Software Engineer specializing in
   - Django <img src="https://img.icons8.com/color/48/000000/django.png" width="20" height="20">
   - NestJS <img src="https://docs.nestjs.com/assets/logo-small.svg" width="20" height="20">
 - **Message Brokers**:
-  - Kafka <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka-icon.svg" width="20" height="20">
+  - Kafka <img src="https://github.com/user-attachments/assets/66be88dd-3f48-446a-9e6d-991feb90efd5" width="20" height="20">
+
 - **Databases**:
   - SQL, MySQL <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="20" height="20">
   - PostgreSQL <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20" height="20">
