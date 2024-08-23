@@ -4,9 +4,9 @@
 Hello! I'm @Adi3g, a dedicated and experienced Software Engineer specializing in credit risk management. I currently work with Santander Corporate and Investment Banking, where I leverage my expertise in Pyhton, Java, Javascript and React.js to develop high-performance financial software solutions. My passion lies in building robust applications that enhance decision-making and optimize financial processes.
 
 ## 💼 Expertise
-- **Programming Languages**: Java ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png), JavaScript ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- **Frameworks/Technologies**: Spring Boot ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png), React.js ![React](https://img.icons8.com/plasticine/100/000000/react.png)
-- **Databases**: SQL, MySQL ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png), PostgreSQL ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+- **Programming Languages**: ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png), ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- **Frameworks/Technologies**:  ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png), ![React](https://img.icons8.com/plasticine/100/000000/react.png)
+- **Databases**: SQL, MySQL ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png), ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
 - **Specialties**:
   - Credit Risk Analysis
   - Financial Software Development
