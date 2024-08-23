@@ -10,9 +10,9 @@ Hello! I'm @Adi3g, a dedicated and experienced Software Engineer specializing in
   - React.js <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="30" height="30">
   - Flask <img src="https://img.icons8.com/color/48/000000/flask.png" width="20" height="20">
   - Django <img src="https://img.icons8.com/color/48/000000/django.png" width="20" height="20">
-  - NestJS <img src="https://symbols.getvecta.com/stencil_97/43_nestjs-icon.314b8d4df0.png" width="20" height="20">
+  - NestJS <img src="https://d33wubrfki0l68.cloudfront.net/a190be4b0f5e16016d874f0e58a3c8b6817e2d09/a3b45/static/925fa03a26bb98cd95fd83a9d8a8820b/nestjs.svg" width="20" height="20">
 - **Message Brokers**:
-  - Kafka <img src="https://img.icons8.com/color/48/000000/apache-kafka.png" width="20" height="20">
+  - Kafka <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" width="20" height="20">
 - **Databases**:
   - SQL, MySQL <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="20" height="20">
   - PostgreSQL <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20" height="20">
@@ -23,8 +23,6 @@ Hello! I'm @Adi3g, a dedicated and experienced Software Engineer specializing in
   - Financial Software Development
   - RORAC, RAW, and ROCA Methodologies
   - API Development <img src="https://img.icons8.com/nolan/64/api-settings.png" width="20" height="20">
-
-
 
 ## 📚 Projects
 Here are a few projects I've worked on that showcase my skills and contributions to financial software development:
