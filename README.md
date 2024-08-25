@@ -26,9 +26,8 @@ Hello! I'm @Adi3g, a dedicated and experienced Software Engineer specializing in
   - API Development <img src="https://img.icons8.com/nolan/64/api-settings.png" width="20" height="20">
 
 ## 📚 Projects
-Here are a few projects I've worked on that showcase my skills and contributions to financial software development:
-- **Credit Risk Analysis Engine**: A tool that integrates advanced risk models to assist banks in assessing and managing credit risks.
-- **Profitability Engine**: Utilizing RORAC, RAW, and ROCA to provide accurate profitability assessments and inform strategic decisions.
+
+**Nox** is a versatile Python CLI tool designed to automate common tasks for developers and system administrators. It features network utilities, encryption/decryption, JWT management, and more, making it a powerful addition to any developer's toolkit.
 
 ## 🤝 Collaboration and Contributions
 I am always open to collaborating on projects that aim to innovate and improve financial systems. If you're interested in partnering or have a project in mind, feel free to reach out!
