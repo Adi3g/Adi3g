@@ -27,7 +27,8 @@ Hello! I'm @Adi3g, a dedicated and experienced Software Engineer specializing in
 
 ## 📚 Projects
 
-**Nox** is a versatile Python CLI tool designed to automate common tasks for developers and system administrators. It features network utilities, encryption/decryption, JWT management, and more, making it a powerful addition to any developer's toolkit.
+#### NOX-CLI 
+ [**Nox**](https://github.com/Adi3g/nox-cli) is a versatile Python CLI tool designed to automate common tasks for developers and system administrators. It features network utilities, encryption/decryption, JWT management, and more, making it a powerful addition to any developer's toolkit.
 
 ## 🤝 Collaboration and Contributions
 I am always open to collaborating on projects that aim to innovate and improve financial systems. If you're interested in partnering or have a project in mind, feel free to reach out!
