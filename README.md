@@ -57,7 +57,7 @@ Here are some insights into my GitHub activity and contributions:
 
 ### Trophies
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Adi3g&theme=dark&margin-w=15&no-frame=true&column=7)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Adi3g&theme=dark&margin-w=15&no-frame=true&column=8)
 
 ### Contribution Activity Graph
 
