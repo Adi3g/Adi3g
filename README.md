@@ -1,7 +1,7 @@
 # Welcome to My GitHub! 👋
 
 ## 🙋‍♂️ About Me
-Hello! I'm @Adi3g, a dedicated and experienced Software Engineer specializing in credit risk management. I currently work at Santander Corporate and Investment Banking, where I leverage my expertise in Pyhton, Java, Javascript and React.js to develop high-performance financial software solutions. My passion lies in building robust applications that enhance decision-making and optimize financial processes.
+Hello! I'm @Adi3g, a dedicated and experienced Software Engineer. I currently work at Santander Corporate and Investment Banking, where I leverage my expertise in Pyhton, Java, Javascript and React.js to develop high-performance software solutions. My passion lies in building robust applications that enhance decision-making and optimize processes.
 
 ## 💼 Expertise
 - **Programming Languages**: Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20" height="20">, JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20">, Python <img src="https://img.icons8.com/color/48/000000/python.png" width="20" height="20">
