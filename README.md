@@ -35,9 +35,10 @@ Hello! I'm @Adi3g, a dedicated and experienced Software Engineer specializing in
 
 #### Storm
 [**Storm**](https://github.com/Adi3g/storm): A Python framework designed for building efficient, scalable applications with modular architecture, advanced routing, and powerful dependency injection, inspired by NestJS.
-## 🤝 Collaboration and Contributions
-I am always open to collaborating on projects that aim to innovate and improve financial systems. If you're interested in partnering or have a project in mind, feel free to reach out!
 
+## 🤝 Collaboration and Contributions
+ am always open to collaborating on projects that aim to innovate and drive positive change. If you're interested in partnering or have a project in mind, feel free to reach out!
+ 
 ## 📫 Contact Me
 - **Email**: [contact@adib-grouz.com](mailto:contact@adib-grouz.com)
 - **LinkedIn**: [Adib Grouz](https://www.linkedin.com/in/adib-grouz)
