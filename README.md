@@ -1,9 +1,9 @@
-# Welcome to My GitHub! 👋
+# Welcome to My Open Universe!
 
-## 🙋‍♂️ About Me
+## About Me
 Hello! I'm @Adi3g, a dedicated and experienced Software Engineer. I currently work at Santander Corporate and Investment Banking, where I leverage my expertise in Pyhton, Java, Javascript and React.js to develop high-performance software solutions. My passion lies in building robust applications that enhance decision-making and optimize processes.
 
-## 💼 Expertise
+## Expertise
 - **Programming Languages**: Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20" height="20">, JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20">, Python <img src="https://img.icons8.com/color/48/000000/python.png" width="20" height="20">
 - **Frameworks/Technologies**:
   - Spring Boot <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20" height="20">
@@ -25,7 +25,7 @@ Hello! I'm @Adi3g, a dedicated and experienced Software Engineer. I currently wo
   - RORAC, RAW, and ROCA Methodologies
   - API Development <img src="https://img.icons8.com/nolan/64/api-settings.png" width="20" height="20">
 
-## 📚 Projects
+## Projects
 
 #### NOX-CLI 
  [**Nox**](https://github.com/Adi3g/nox-cli) is a versatile Python CLI tool designed to automate common tasks for developers and system administrators. It features network utilities, encryption/decryption, JWT management, and more, making it a powerful addition to any developer's toolkit.
@@ -36,7 +36,7 @@ Hello! I'm @Adi3g, a dedicated and experienced Software Engineer. I currently wo
 #### Storm
 [**Storm**](https://github.com/Adi3g/storm): A Python framework designed for building efficient, scalable applications with modular architecture, advanced routing, and powerful dependency injection, inspired by NestJS.
 
-## 🤝 Collaboration and Contributions
+## Collaboration and Contributions
  am always open to collaborating on projects that aim to innovate and drive positive change. If you're interested in partnering or have a project in mind, feel free to reach out!
 
 ## GitHub Stats
@@ -64,6 +64,6 @@ Here are some insights into my GitHub activity and contributions:
 [![Adi3g's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adi3g&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/Adi3g)
 
 
-## 📫 Contact Me
+## Contact Me
 - **Email**: [contact@adib-grouz.com](mailto:contact@adib-grouz.com)
 - **LinkedIn**: [Adib Grouz](https://www.linkedin.com/in/adib-grouz)
