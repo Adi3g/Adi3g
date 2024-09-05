@@ -1,32 +1,10 @@
-
+un
 
 # Welcome to My Open Universe! 🌌
 
 ## About Me
 I'm @Adi3g, a Software Engineer at Santander Corporate and Investment Banking. My universe revolves around crafting high-performance software solutions. I thrive on building robust applications that solve complex problems and drive innovation. Explore my projects and let's collaborate to create something extraordinary together!
 
-
-## Expertise
-- **Programming Languages**: Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20" height="20">, JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20">, Python <img src="https://img.icons8.com/color/48/000000/python.png" width="20" height="20">
-- **Frameworks/Technologies**:
-  - Spring Boot <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="20" height="20">
-  - React.js <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="30" height="30">
-  - Flask <img src="https://img.icons8.com/color/48/000000/flask.png" width="20" height="20">
-  - Django <img src="https://img.icons8.com/color/48/000000/django.png" width="20" height="20">
-  - NestJS <img src="https://docs.nestjs.com/assets/logo-small.svg" width="20" height="20">
-- **Message Brokers**:
-  - Kafka <img src="https://github.com/user-attachments/assets/66be88dd-3f48-446a-9e6d-991feb90efd5" width="20" height="20">
-
-- **Databases**:
-  - SQL, MySQL <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="20" height="20">
-  - PostgreSQL <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20" height="20">
-  - MongoDB <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="20" height="20">
-  - Redis <img src="https://img.icons8.com/color/48/000000/redis.png" width="20" height="20">
-- **Specialties**:
-  - Credit Risk Analysis
-  - Financial Software Development
-  - RORAC, RAW, and ROCA Methodologies
-  - API Development <img src="https://img.icons8.com/nolan/64/api-settings.png" width="20" height="20">
 
 ## Projects
 
