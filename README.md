@@ -1,7 +1,10 @@
-# Welcome to My Open Universe!
+
+
+# Welcome to My Open Universe! 🌌
 
 ## About Me
-Hello! I'm @Adi3g, a dedicated and experienced Software Engineer. I currently work at Santander Corporate and Investment Banking, where I leverage my expertise in Pyhton, Java, Javascript and React.js to develop high-performance software solutions. My passion lies in building robust applications that enhance decision-making and optimize processes.
+I'm @Adi3g, a Software Engineer at Santander Corporate and Investment Banking. My universe revolves around crafting high-performance software solutions. I thrive on building robust applications that solve complex problems and drive innovation. Explore my projects and let's collaborate to create something extraordinary together!
+
 
 ## Expertise
 - **Programming Languages**: Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20" height="20">, JavaScript <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20">, Python <img src="https://img.icons8.com/color/48/000000/python.png" width="20" height="20">
