@@ -9,14 +9,14 @@ I'm @Adi3g, a Software Engineer at Santander Corporate and Investment Banking. M
 #### NOX-CLI 
  [**Nox**](https://github.com/Adi3g/nox-cli) is a versatile Python CLI tool designed to automate common tasks for developers and system administrators. It features network utilities, encryption/decryption, JWT management, and more, making it a powerful addition to any developer's toolkit.
 
-#### Hexboltmq
+#### HexboltMQ
 [**Hexboltmq**](https://github.com/Adi3g/hexboltmq) A high-performance, distributed message queueing system designed for scalability and reliability, featuring advanced message prioritization, time-based expiration, batch processing, and robust routing strategies.
 
 #### Storm
 [**Storm**](https://github.com/Adi3g/storm): A Python framework designed for building efficient, scalable applications with modular architecture, advanced routing, and powerful dependency injection, inspired by NestJS.
 
 ## Collaboration and Contributions
- am always open to collaborating on projects that aim to innovate and drive positive change. If you're interested in partnering or have a project in mind, feel free to reach out!
+ I'm always open to collaborating on projects that aim to innovate and drive positive change. If you're interested in partnering or have a project in mind, feel free to reach out!
 
 ## GitHub Stats
 
