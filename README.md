@@ -1,5 +1,3 @@
-un
-
 # Welcome to My Open Universe! 🌌
 
 ## About Me
