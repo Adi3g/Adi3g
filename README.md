@@ -15,6 +15,8 @@ I'm @Adi3g, a Software Engineer at Santander Corporate and Investment Banking. M
 #### Storm
 [**Storm**](https://github.com/Adi3g/storm): A Python framework designed for building efficient, scalable applications with modular architecture, advanced routing, and powerful dependency injection, inspired by NestJS.
 
+[**Statikk**](https://github.com/Adi3g/statikk): An open-source Backend-as-a-Service (BaaS) platform that provides a Firebase and Supabase alternative, built with Python and SubrrealDB. Statikk offers project-specific databases, dynamic API generation, and cloud functions with an emphasis on data isolation, scalability, and flexibility for modern applications.
+
 ## Collaboration and Contributions
  I'm always open to collaborating on projects that aim to innovate and drive positive change. If you're interested in partnering or have a project in mind, feel free to reach out!
 
