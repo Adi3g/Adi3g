@@ -6,7 +6,7 @@ I'm @Adi3g, a Software Engineer at Santander Corporate and Investment Banking. M
 
 ## Projects
 
-#### NOX-CLI 
+#### Nox 
  [**Nox**](https://github.com/Adi3g/nox-cli) is a versatile Python CLI tool designed to automate common tasks for developers and system administrators. It features network utilities, encryption/decryption, JWT management, and more, making it a powerful addition to any developer's toolkit.
 
 #### HexboltMQ
