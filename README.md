@@ -37,10 +37,6 @@ Here are some insights into my GitHub activity and contributions:
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Adi3g&theme=dark&margin-w=15&no-frame=true&column=8)
 
-### Contribution Activity Graph
-
-[![Adi3g's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adi3g&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/Adi3g)
-
 
 ## Contact Me
 - **Email**: [contact@adib-grouz.com](mailto:contact@adib-grouz.com)
