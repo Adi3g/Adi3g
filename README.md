@@ -33,10 +33,6 @@ Here are some insights into my GitHub activity and contributions:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi3g&layout=compact&hide=html,css&theme=dark)
 
-### Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adi3g&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
-
 ### Trophies
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Adi3g&theme=dark&margin-w=15&no-frame=true&column=8)
