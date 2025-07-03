@@ -14,8 +14,6 @@ I'm @Adi3g, a Software Engineer at Santander Corporate and Investment Banking. M
 #### HexboltMQ
 [**Hexboltmq**](https://github.com/Adi3g/hexboltmq) A high-performance, distributed message queueing system designed for scalability and reliability, featuring advanced message prioritization, time-based expiration, batch processing, and robust routing strategies.
 
-#### Statikk
-[**Statikk**](https://github.com/Adi3g/statikk): An Backend-as-a-Service (BaaS) platform that provides a Firebase and Supabase alternative, built with Python and SubrrealDB. Statikk offers project-specific databases, dynamic API generation, and cloud functions with an emphasis on data isolation, scalability, and flexibility for modern applications.
 
 ## Collaboration and Contributions
  I'm always open to collaborating on projects that aim to innovate and drive positive change. If you're interested in partnering or have a project in mind, feel free to reach out!
