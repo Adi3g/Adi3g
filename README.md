@@ -35,10 +35,6 @@ Here are some insights into my GitHub activity and contributions:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi3g&layout=compact&hide=html,css&theme=dark)
 
-### Trophies
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Adi3g&theme=dark&margin-w=15&no-frame=true&column=8)
-
 
 ## Contact Me
 - **Email**: [contact@adib-grouz.com](mailto:contact@adib-grouz.com)
